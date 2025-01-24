@@ -154,8 +154,8 @@
         "price_tqxfrx": {
           "type": "price",
           "settings": {
-            "layout": "price_first",
-            "price_color": "accent-1",
+            "layout": "price_second",
+            "price_color": "outline-button",
             "compare_price_color": "text",
             "hide_sale_badge": false,
             "margin_top": 15,
@@ -279,7 +279,7 @@
             "direction": "vertical",
             "column_gap": 3,
             "enable_bg": false,
-            "bg_color": "#F3F3F3",
+            "bg_color": "#f3f3f3",
             "corner_radius": 40,
             "padding": 3,
             "margin_top": 15,
@@ -669,7 +669,7 @@
             "direction": "horizontal",
             "column_gap": 3,
             "enable_bg": false,
-            "bg_color": "#F3F3F3",
+            "bg_color": "#f3f3f3",
             "corner_radius": 40,
             "padding": 3,
             "margin_top": 15,
