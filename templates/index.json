@@ -359,7 +359,7 @@
         "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-1": {
           "type": "row",
           "settings": {
-            "benefit": "Benefit",
+            "benefit": "Premium Quality",
             "us": true,
             "others": false
           }
@@ -367,7 +367,7 @@
         "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-2": {
           "type": "row",
           "settings": {
-            "benefit": "Benefit",
+            "benefit": "Fast & Reliable Shipping",
             "us": true,
             "others": false
           }
@@ -375,7 +375,7 @@
         "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-3": {
           "type": "row",
           "settings": {
-            "benefit": "Benefit",
+            "benefit": "Innovative Designs",
             "us": true,
             "others": false
           }
@@ -389,9 +389,9 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Comparison table",
+        "title": "BENEFITS OVER OTHERS",
         "heading_size": "h1",
-        "text": "<p>Talk about how and why is your brand better than the others.</p>",
+        "text": "<h5>BabyOasis makes it possible for parents to enjoy luxury without breaking the bank.</h5>",
         "button_label": "",
         "link": "",
         "button_style_secondary": false,
@@ -445,7 +445,7 @@
             "icon": "check_circle",
             "filled_icon": false,
             "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
           }
         },
         "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-2": {
@@ -482,6 +482,7 @@
         "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-3",
         "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-4"
       ],
+      "disabled": true,
       "settings": {
         "display_id": false,
         "visibility": "always-display",
@@ -525,7 +526,7 @@
         "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-1": {
           "type": "row",
           "settings": {
-            "percentage": 90,
+            "percentage": 95,
             "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
           }
         },
@@ -549,6 +550,7 @@
         "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-2",
         "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-3"
       ],
+      "disabled": true,
       "settings": {
         "display_id": false,
         "visibility": "always-display",
