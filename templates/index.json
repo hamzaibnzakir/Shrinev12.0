@@ -68,7 +68,7 @@
         "auto_rotate": false,
         "change_slides_speed": 5,
         "show_text_below": false,
-        "mobile_pagination_position": "under",
+        "mobile_pagination_position": "over",
         "accessibility_info": "Slideshow about our brand"
       }
     },
