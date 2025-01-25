@@ -642,25 +642,25 @@
         "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-1": {
           "type": "column",
           "settings": {
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
-            "author": "<em><strong>Author</strong></em>"
+            "title": "",
+            "text": "<p>The BabyOasis changing station is a lifesaver! It’s super practical, and I no longer have to worry about finding a safe, clean place to change my baby while on the go. Highly recommend!</p>",
+            "author": "<strong>James T.</strong>"
           }
         },
         "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-2": {
           "type": "column",
           "settings": {
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
-            "author": "<em><strong>Author</strong></em>"
+            "title": "",
+            "text": "<p>I’ve tried several changing stations before, but the one from BabyOasis is by far the best. It’s practical, functional, and stylish. It makes a huge difference in our daily routine.</p>",
+            "author": "<strong>Mia R.</strong>"
           }
         },
         "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-3": {
           "type": "column",
           "settings": {
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
-            "author": "<em><strong>Author</strong></em>"
+            "title": "",
+            "text": "<p>We love our new changing station from BabyOasis! It’s lightweight but really sturdy, and it fits perfectly in our apartment. It’s made changing our baby so much easier!</p>",
+            "author": "<strong>Ethan C.</strong>"
           }
         }
       },
