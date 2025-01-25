@@ -597,6 +597,7 @@
         "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-3",
         "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-4"
       ],
+      "disabled": true,
       "settings": {
         "display_id": false,
         "visibility": "always-display",
