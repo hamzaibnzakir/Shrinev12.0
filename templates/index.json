@@ -90,21 +90,21 @@
         "heading_RmjxGq": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand</p>",
+            "heading": "<p><strong>BabyOasis</strong></p>",
             "heading_size": "h1"
           }
         },
         "text_hFFDVU": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+            "text": "<p>At BabyHaven, we make parenting easier with high-quality, safe, and functional baby essentials. From travel-friendly solutions to everyday must-haves, our products are thoughtfully curated to support your parenting journey.</p>"
           }
         },
         "button_FNzg3k": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/portable-baby-diaper-changing-pad-foldable-baby-changing-pad-with-pockets-newborn-waterproof-travel-diaper-changing-station-kit",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
