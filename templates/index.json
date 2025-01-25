@@ -16,6 +16,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/yrg.jpg",
+            "mobile_image": "shopify://shop_images/S8c244b4a272f4a11b917c1a7365cd8efH.webp",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
