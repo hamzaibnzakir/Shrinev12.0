@@ -436,138 +436,72 @@
         "padding_bottom": 0
       }
     },
-    "6aa09428-a417-429d-9159-a4e8afd49590": {
-      "type": "icon-bar",
+    "collapsible_content_XRj6wx": {
+      "type": "collapsible-content",
       "blocks": {
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-1": {
-          "type": "column",
+        "collapsible_row_MjzWAx": {
+          "type": "collapsible_row",
           "settings": {
-            "icon": "check_circle",
+            "heading": "What makes BabyOasis changing stations different from others?",
+            "icon": "check_box",
             "filled_icon": false,
-            "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
+            "row_content": "<p>BabyOasis offers a unique foldable design that saves space, making it perfect for small homes or travel. It combines style, convenience, and safety all in one.</p>",
+            "page": ""
           }
         },
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-2": {
-          "type": "column",
+        "collapsible_row_J3nm9e": {
+          "type": "collapsible_row",
           "settings": {
-            "icon": "check_circle",
+            "heading": "How easy is it to set up the BabyOasis changing station?",
+            "icon": "check_box",
             "filled_icon": false,
-            "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+            "row_content": "<p>Setting up is simple and quick! The foldable design allows you to set it up in seconds and fold it away when not in use.</p>",
+            "page": ""
           }
         },
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-3": {
-          "type": "column",
+        "collapsible_row_x7gYED": {
+          "type": "collapsible_row",
           "settings": {
-            "icon": "check_circle",
+            "heading": "Is BabyOasis suitable for newborns and toddlers?",
+            "icon": "check_box",
             "filled_icon": false,
-            "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+            "row_content": "<p>Yes! BabyOasis is designed for babies from birth to toddlerhood, offering a safe and comfortable changing experience at every stage.</p>",
+            "page": ""
           }
         },
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-4": {
-          "type": "column",
+        "collapsible_row_Xa3gcz": {
+          "type": "collapsible_row",
           "settings": {
-            "icon": "check_circle",
+            "heading": "Is it portable? Can I take it with me on trips?",
+            "icon": "check_box",
             "filled_icon": false,
-            "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+            "row_content": "<p>Absolutely! The compact foldable design makes BabyOasis perfect for travel. It's lightweight and portable, so you can take it anywhere.</p>",
+            "page": ""
           }
         }
       },
       "block_order": [
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-1",
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-2",
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-3",
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-4"
+        "collapsible_row_MjzWAx",
+        "collapsible_row_J3nm9e",
+        "collapsible_row_x7gYED",
+        "collapsible_row_Xa3gcz"
       ],
-      "disabled": true,
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Icon bar",
+        "caption": "babyoasis",
+        "heading": "FAQ",
         "heading_size": "h1",
-        "text": "",
+        "heading_alignment": "center",
+        "layout": "none",
         "color_scheme": "background-1",
-        "icon_layout": "vertical",
-        "icon_size": "medium",
-        "icon_color": "accent-1",
-        "cards_color_scheme": "background-1",
-        "type": "slide",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "arrows_color_scheme": "inverse",
-        "transparent_arrows": true,
-        "dots_color_scheme": "inverse",
-        "desktop_full_page": false,
-        "columns_desktop": 4,
-        "slider_desktop": false,
-        "per_move_desktop": 1,
-        "desktop_spacing": 40,
-        "desktop_side_padding": 0,
-        "desktop_padding_calc": true,
-        "desktop_adaptive_height": false,
-        "desktop_dots_position": "under",
-        "desktop_arrows_position": "sides",
-        "columns_mobile": "1",
-        "slider_mobile": true,
-        "enable_mobile_preview": false,
-        "mobile_adaptive_height": false,
-        "mobile_dots_position": "under",
-        "mobile_arrows_position": "under",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "0f1fc9e4-bc4c-4052-9747-62d1f8472caa": {
-      "type": "results",
-      "blocks": {
-        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-1": {
-          "type": "row",
-          "settings": {
-            "percentage": 95,
-            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
-          }
-        },
-        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-2": {
-          "type": "row",
-          "settings": {
-            "percentage": 90,
-            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
-          }
-        },
-        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-3": {
-          "type": "row",
-          "settings": {
-            "percentage": 90,
-            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-1",
-        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-2",
-        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-3"
-      ],
-      "disabled": true,
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "Results",
-        "heading_size": "h1",
-        "text": "<p>Talk about results of your customers and how your product improved their life.</p>",
-        "color_scheme": "background-1",
-        "layout": "results_second",
-        "results_headline": "Results heading",
-        "results_headline_size": "h2",
-        "results_headline_alignment": "left",
-        "caption": "<p>Caption about the results and/or link for their proof.</p>",
-        "button_label": "",
-        "link": "",
-        "button_style_secondary": false,
-        "atc_button_label": "",
-        "atc_product": "",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "row_heading_size": "medium",
+        "collapse_icon": "carret",
+        "display_top_border": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -607,8 +541,7 @@
     "section_divider_4L3qWP",
     "d2d3417b-e92f-428c-b221-5bceffb552be",
     "section_divider_jbGz7q",
-    "6aa09428-a417-429d-9159-a4e8afd49590",
-    "0f1fc9e4-bc4c-4052-9747-62d1f8472caa",
+    "collapsible_content_XRj6wx",
     "ee8d9ca6-4a41-401f-83a3-37e138a112b9",
     "section_divider_cteg7q"
   ]
