@@ -327,7 +327,7 @@
           "settings": {
             "column": "col_1",
             "visibility": "always-display",
-            "heading": "Custom columns",
+            "heading": "Transform your space, change with ease.",
             "heading_size": "h1",
             "alignment": "center",
             "mobile_alignment": "mobile-center",
@@ -340,7 +340,7 @@
           "settings": {
             "column": "col_1",
             "visibility": "always-display",
-            "text": "<p>Use the flexible grid system to create any layout. Each block can be placed in any of the columns.</p>",
+            "text": "<p>Your baby’s comfort and your space – perfectly balanced. Discover BabyOasis for a smarter changing routine.</p>",
             "text_style": "body",
             "alignment": "center",
             "mobile_alignment": "mobile-center",
@@ -354,14 +354,14 @@
             "column": "col_2",
             "visibility": "always-display",
             "icon": "check_circle",
-            "filled_icon": false,
+            "filled_icon": true,
             "icon_size": "m",
             "icon_position": "next-to-title",
             "icon_color": "accent-1",
             "icon_heading_size": "h3",
             "icon_text_alignment": "left",
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
+            "title": "Durable & Safe",
+            "text": "<p>Built to last, with high-quality materials that keep your baby safe.</p>",
             "margin_top": 20,
             "margin_bottom": 30
           }
@@ -372,14 +372,14 @@
             "column": "col_2",
             "visibility": "always-display",
             "icon": "check_circle",
-            "filled_icon": false,
+            "filled_icon": true,
             "icon_size": "m",
             "icon_position": "next-to-title",
             "icon_color": "accent-1",
             "icon_heading_size": "h3",
             "icon_text_alignment": "left",
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
+            "title": "Space-Saving Design",
+            "text": "<p>Easily fold and store, perfect for any home size.</p><p></p>",
             "margin_top": 20,
             "margin_bottom": 20
           }
@@ -389,6 +389,7 @@
           "settings": {
             "column": "col_3",
             "visibility": "always-display",
+            "image": "shopify://shop_images/S10afbcefe6d44bcc84b579ea0144e101a.webp",
             "width": 100,
             "alignment": "center",
             "mobile_alignment": "center",
@@ -403,14 +404,14 @@
             "column": "col_4",
             "visibility": "always-display",
             "icon": "check_circle",
-            "filled_icon": false,
+            "filled_icon": true,
             "icon_size": "m",
             "icon_position": "next-to-title",
             "icon_color": "accent-1",
             "icon_heading_size": "h3",
             "icon_text_alignment": "left",
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
+            "title": "Stylish & Practical",
+            "text": "<p>Blends seamlessly into any nursery or home decor.</p>",
             "margin_top": 20,
             "margin_bottom": 30
           }
@@ -421,14 +422,14 @@
             "column": "col_4",
             "visibility": "always-display",
             "icon": "check_circle",
-            "filled_icon": false,
+            "filled_icon": true,
             "icon_size": "m",
             "icon_position": "next-to-title",
             "icon_color": "accent-1",
             "icon_heading_size": "h3",
             "icon_text_alignment": "left",
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
+            "title": "Portable",
+            "text": "<p>Ideal for on-the-go parents – take it wherever you need!</p>",
             "margin_top": 20,
             "margin_bottom": 20
           }
@@ -472,85 +473,6 @@
         "col_6_desktop_width": 3,
         "col_6_mobile_width": 4,
         "col_6_visibility": "always-display",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a": {
-      "type": "icons-with-content",
-      "blocks": {
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-1": {
-          "type": "icon",
-          "settings": {
-            "icon": "check_circle",
-            "filled_icon": false,
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
-          }
-        },
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-2": {
-          "type": "icon",
-          "settings": {
-            "icon": "check_circle",
-            "filled_icon": false,
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
-          }
-        },
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-3": {
-          "type": "icon",
-          "settings": {
-            "icon": "check_circle",
-            "filled_icon": false,
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
-          }
-        },
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Content heading",
-            "heading_size": "h1"
-          }
-        },
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair icons with content to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_style": "body"
-          }
-        },
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-1",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-2",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-3",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-heading-1",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-text-1",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-button-1"
-      ],
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "color_scheme": "background-1",
-        "icon_size": "m",
-        "icon_position": "next-to-title",
-        "icon_color": "accent-1",
-        "icon_heading_size": "h3",
-        "icon_text_alignment": "left",
-        "icons_desktop_layout": "1-column",
-        "icons_mobile_layout": "1-column",
-        "desktop_content_alignment": "left",
-        "layout": "image_first",
-        "mobile_layout": "text_first",
-        "hide_content_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -754,7 +676,6 @@
     "main",
     "related-products",
     "8beb6911-28c6-482c-976a-e5421ad3e8df",
-    "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f",
     "421b5ad9-18b2-4b2a-8205-8700f2cd0d94",
