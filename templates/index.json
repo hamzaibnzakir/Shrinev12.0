@@ -505,19 +505,6 @@
         "padding_bottom": 36
       }
     },
-    "ee8d9ca6-4a41-401f-83a3-37e138a112b9": {
-      "type": "contact-form",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "heading": "Contact form",
-        "heading_size": "h1",
-        "button_full_width": true,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "section_divider_cteg7q": {
       "type": "section-divider",
       "settings": {
@@ -528,41 +515,6 @@
         "background_color": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "bundle_deals_CNMN9C": {
-      "type": "bundle-deals",
-      "blocks": {
-        "product_NPJLNY": {
-          "type": "product",
-          "settings": {
-            "product": "portable-baby-diaper-changing-pad-foldable-baby-changing-pad-with-pockets-newborn-waterproof-travel-diaper-changing-station-kit",
-            "percentage_discount": "2",
-            "fixed_amount_discount": "2"
-          }
-        }
-      },
-      "block_order": [
-        "product_NPJLNY"
-      ],
-      "disabled": true,
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "Bundle deals",
-        "heading_size": "h1",
-        "text": "",
-        "color_scheme": "background-1",
-        "layout": "horizontal-images-left",
-        "enable_price_changes": true,
-        "prices_under": true,
-        "skip_cart": false,
-        "total_price_label": "Total Price:",
-        "btn_label": "Add selected to cart",
-        "percentage_discount": "0",
-        "fixed_amount_discount": "0",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     }
   },
@@ -576,8 +528,6 @@
     "d2d3417b-e92f-428c-b221-5bceffb552be",
     "section_divider_jbGz7q",
     "collapsible_content_XRj6wx",
-    "ee8d9ca6-4a41-401f-83a3-37e138a112b9",
-    "section_divider_cteg7q",
-    "bundle_deals_CNMN9C"
+    "section_divider_cteg7q"
   ]
 }
