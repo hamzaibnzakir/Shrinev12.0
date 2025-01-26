@@ -441,40 +441,40 @@
         "collapsible_row_MjzWAx": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "What makes BabyOasis changing stations different from others?",
+            "heading": "How long does it take to process my order?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>BabyOasis offers a unique foldable design that saves space, making it perfect for small homes or travel. It combines style, convenience, and safety all in one.</p>",
+            "row_content": "<p>We aim to process all orders within [12 business days] after the order is placed. Please note that this may vary during peak times or promotions.</p>",
             "page": ""
           }
         },
         "collapsible_row_J3nm9e": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How easy is it to set up the BabyOasis changing station?",
+            "heading": "Do you offer discounts or promotions?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>Setting up is simple and quick! The foldable design allows you to set it up in seconds and fold it away when not in use.</p>",
+            "row_content": "<p>Yes, we frequently run special offers. Subscribe to our newsletter or follow us on social media to stay updated!</p>",
             "page": ""
           }
         },
         "collapsible_row_x7gYED": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Is BabyOasis suitable for newborns and toddlers?",
+            "heading": "Can I cancel or modify my order?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>Yes! BabyOasis is designed for babies from birth to toddlerhood, offering a safe and comfortable changing experience at every stage.</p>",
+            "row_content": "<p>We can help with order cancellations or modifications if the request is made within [12 hours] of placing the order. Contact us immediately for assistance</p>",
             "page": ""
           }
         },
         "collapsible_row_Xa3gcz": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Is it portable? Can I take it with me on trips?",
+            "heading": "Do you ship internationally?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>Absolutely! The compact foldable design makes BabyOasis perfect for travel. It's lightweight and portable, so you can take it anywhere.</p>",
+            "row_content": "<p>Yes, we ship worldwide! Delivery times and shipping costs may vary depending on your country.</p>",
             "page": ""
           }
         }
