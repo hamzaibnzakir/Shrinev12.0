@@ -15,8 +15,6 @@
         "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/yrg.jpg",
-            "mobile_image": "shopify://shop_images/S8c244b4a272f4a11b917c1a7365cd8efH.webp",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -40,7 +38,7 @@
       ],
       "settings": {
         "visibility": "always-display",
-        "layout": "grid",
+        "layout": "full_bleed",
         "slide_height": "large",
         "slider_visual": "dots",
         "desktop_pagination_position": "over",
