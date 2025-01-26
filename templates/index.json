@@ -473,7 +473,7 @@
           "settings": {
             "heading": "Do you ship internationally?",
             "icon": "check_box",
-            "filled_icon": false,
+            "filled_icon": true,
             "row_content": "<p>Yes, we ship worldwide! Delivery times and shipping costs may vary depending on your country.</p>",
             "page": ""
           }
