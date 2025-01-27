@@ -228,21 +228,6 @@
             "margin_top": 24,
             "margin_bottom": 24
           }
-        },
-        "de158e68-5d0d-4819-a625-e2dabdff87d1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Collapsible row",
-            "heading_size": "medium",
-            "icon": "check_box",
-            "filled_icon": false,
-            "collapse_icon": "carret",
-            "display_top_border": true,
-            "content": "",
-            "page": "",
-            "margin_top": 24,
-            "margin_bottom": 0
-          }
         }
       },
       "block_order": [
@@ -255,8 +240,7 @@
         "e0a0b690-50df-4ca4-acfd-ce2980696cce",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "description",
-        "c43b9f54-e00a-4f9e-b42c-2914dde008a8",
-        "de158e68-5d0d-4819-a625-e2dabdff87d1"
+        "c43b9f54-e00a-4f9e-b42c-2914dde008a8"
       ],
       "custom_css": [],
       "settings": {
@@ -347,8 +331,8 @@
             "icon_color": "accent-1",
             "icon_heading_size": "h3",
             "icon_text_alignment": "left",
-            "title": "Durable & Safe",
-            "text": "<p>Built to last, with high-quality materials that keep your baby safe.</p>",
+            "title": "Intense Hydration",
+            "text": "<p>Delivers moisture deep into the skin, leaving it soft and supple.</p>",
             "margin_top": 20,
             "margin_bottom": 30
           }
@@ -365,8 +349,8 @@
             "icon_color": "accent-1",
             "icon_heading_size": "h3",
             "icon_text_alignment": "left",
-            "title": "Space-Saving Design",
-            "text": "<p>Easily fold and store, perfect for any home size.</p><p></p>",
+            "title": "Anti-Aging Properties",
+            "text": "<p>Reduces the appearance of fine lines and wrinkles for a smoother look.</p><p></p>",
             "margin_top": 20,
             "margin_bottom": 20
           }
