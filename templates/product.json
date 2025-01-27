@@ -228,10 +228,15 @@
             "margin_top": 24,
             "margin_bottom": 24
           }
+        },
+        "ecb23c6d-d1a2-4f62-a023-927e2b3614be": {
+          "type": "shopify://apps/audien-reviews/blocks/star_rating/ce002b21-24e0-4d65-87ca-18c9770b24d4",
+          "settings": {}
         }
       },
       "block_order": [
         "title",
+        "ecb23c6d-d1a2-4f62-a023-927e2b3614be",
         "a6eb81db-40e4-43e0-972f-32db010a4a56",
         "price",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
@@ -541,12 +546,6 @@
         "padding_bottom": 0
       }
     },
-    "ce002b21-24e0-4d65-87ca-18c9770b24d4": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
-    },
     "section_divider_hkgTj4": {
       "type": "section-divider",
       "settings": {
@@ -558,6 +557,21 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "ce002b21-24e0-4d65-87ca-18c9770b24d4": {
+      "type": "apps",
+      "blocks": {
+        "ce002b21-24e0-4d65-87ca-18c9770b24d4": {
+          "type": "shopify://apps/audien-reviews/blocks/review_list/ce002b21-24e0-4d65-87ca-18c9770b24d4",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "ce002b21-24e0-4d65-87ca-18c9770b24d4"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -566,7 +580,7 @@
     "8beb6911-28c6-482c-976a-e5421ad3e8df",
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
     "421b5ad9-18b2-4b2a-8205-8700f2cd0d94",
-    "ce002b21-24e0-4d65-87ca-18c9770b24d4",
-    "section_divider_hkgTj4"
+    "section_divider_hkgTj4",
+    "ce002b21-24e0-4d65-87ca-18c9770b24d4"
   ]
 }
