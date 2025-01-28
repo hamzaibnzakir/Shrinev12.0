@@ -34,21 +34,6 @@
             "custom_css": ""
           }
         },
-        "a6eb81db-40e4-43e0-972f-32db010a4a56": {
-          "type": "rating_stars",
-          "settings": {
-            "rating": 4.4,
-            "star_color": "#ffcc00",
-            "bg_stars_style": "full",
-            "bg_star_color": "#ececec",
-            "label": "(xxxx Reviews)",
-            "size": 16,
-            "alignment": "flex-start",
-            "scroll_id": "",
-            "margin_top": 0,
-            "margin_bottom": 9
-          }
-        },
         "price": {
           "type": "price",
           "settings": {
@@ -224,36 +209,18 @@
             "margin_top": 24,
             "margin_bottom": 24
           }
-        },
-        "c43b9f54-e00a-4f9e-b42c-2914dde008a8": {
-          "type": "reviews",
-          "settings": {
-            "display_stars": true,
-            "star_color": "#ffcc00",
-            "avatar_alignment": "top",
-            "author_1": "<em>Jordan</em>",
-            "text_1": "<p>Perfect for on-the-go parents! The quality is amazing, and the storage pockets are so convenient.</p>",
-            "author_2": "<em>Ryan</em>",
-            "text_2": "<p>Fast shipping and excellent customer service. I’ll definitely shop here again</p>",
-            "author_3": "<em>Smith</em>",
-            "text_3": "<p>Love it! The waterproof material makes cleanup a breeze. Highly recommend!</p>",
-            "margin_top": 24,
-            "margin_bottom": 24
-          }
         }
       },
       "block_order": [
         "title",
         "ecb23c6d-d1a2-4f62-a023-927e2b3614be",
-        "a6eb81db-40e4-43e0-972f-32db010a4a56",
         "price",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
         "buy_buttons",
         "e0a0b690-50df-4ca4-acfd-ce2980696cce",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
-        "description",
-        "c43b9f54-e00a-4f9e-b42c-2914dde008a8"
+        "description"
       ],
       "custom_css": [],
       "settings": {
