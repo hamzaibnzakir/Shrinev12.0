@@ -161,6 +161,12 @@
             "margin_bottom": 15
           }
         },
+        "custom_liquid_dFdfQx": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\">\n  <svg width=\"15\" height=\"15\" aria-hidden=\"true\" class=\"pulsing-dot\">\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgb(62,214,96, 0.3)\"></circle>\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(62,214,96)\"></circle>\n  </svg>\n  Left in Stock: 7 Masks\n</p>\n\n<style>\n  .pulsing-dot {\n    animation: pulse 1.5s infinite;\n  }\n\n  @keyframes pulse {\n    0% {\n      transform: scale(1);\n      opacity: 1;\n    }\n    50% {\n      transform: scale(1.2);\n      opacity: 0.7;\n    }\n    100% {\n      transform: scale(1);\n      opacity: 1;\n    }\n  }\n</style>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -174,14 +180,17 @@
             "margin_bottom": 24
           }
         },
-        "custom_liquid_dFdfQx": {
-          "type": "custom_liquid",
+        "payment_badges_LKnBen": {
+          "type": "payment_badges",
           "settings": {
-            "custom_liquid": "<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\">\n  <svg width=\"15\" height=\"15\" aria-hidden=\"true\" class=\"pulsing-dot\">\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgb(62,214,96, 0.3)\"></circle>\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(62,214,96)\"></circle>\n  </svg>\n  Left in Stock: 7 Masks\n</p>\n\n<style>\n  .pulsing-dot {\n    animation: pulse 1.5s infinite;\n  }\n\n  @keyframes pulse {\n    0% {\n      transform: scale(1);\n      opacity: 1;\n    }\n    50% {\n      transform: scale(1.2);\n      opacity: 0.7;\n    }\n    100% {\n      transform: scale(1);\n      opacity: 1;\n    }\n  }\n</style>"
+            "enabled_payment_types": "",
+            "margin_top": 15,
+            "margin_bottom": 15
           }
         },
         "e0a0b690-50df-4ca4-acfd-ce2980696cce": {
           "type": "shipping_checkpoints",
+          "disabled": true,
           "settings": {
             "icon_1": "add_shopping_cart",
             "filled_icon_1": false,
@@ -249,11 +258,14 @@
             "star_color": "#ffcc00",
             "avatar_alignment": "top",
             "author_1": "<em>Meredith H.</em>",
-            "text_1": "<p>\"I absolutely LOVE thist! The initial makes it so personal, and it hasn’t tarnished even after wearing it for weeks. It’s perfect for every outfit!\"</p>",
-            "author_2": "<em>Author</em>",
-            "text_2": "<p>Share positive thoughts and feedback from your customer.</p>",
-            "author_3": "<em>Author</em>",
-            "text_3": "<p>Share positive thoughts and feedback from your customer.</p>",
+            "text_1": "<p><em>\"Obsessed! My skin feels incredibly smooth and hydrated after every use—total game changer!\"</em></p>",
+            "image_1": "shopify://shop_images/429673671_18417651388002274_5026951192226424869_n.webp",
+            "author_2": "<em>Yuni M.</em>",
+            "text_2": "<p>\"Bought this as a gift for my best friend, and she was obsessed! The results are immaculate, and the comfort is unreal!\"</p>",
+            "image_2": "shopify://shop_images/Screenshot_2024-11-19_at_9.20.54_PM.png",
+            "author_3": "<em>Kylie R.</em>",
+            "text_3": "<p><em>I’m so happy!! It actually came!</em></p>",
+            "image_3": "shopify://shop_images/aTfCYmFpRy_mid.jpg",
             "margin_top": 24,
             "margin_bottom": 24
           }
@@ -273,8 +285,9 @@
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
         "text_x9eXDk",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
-        "buy_buttons",
         "custom_liquid_dFdfQx",
+        "buy_buttons",
+        "payment_badges_LKnBen",
         "e0a0b690-50df-4ca4-acfd-ce2980696cce",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "reviews_kL4ad7",
