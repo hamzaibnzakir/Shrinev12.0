@@ -236,6 +236,22 @@
             "mobile_transparent_bg": false
           }
         },
+        "reviews_kL4ad7": {
+          "type": "reviews",
+          "settings": {
+            "display_stars": true,
+            "star_color": "#ffcc00",
+            "avatar_alignment": "top",
+            "author_1": "<em>Meredith H.</em>",
+            "text_1": "<p>\"I absolutely LOVE thist! The initial makes it so personal, and it hasn’t tarnished even after wearing it for weeks. It’s perfect for every outfit!\"</p>",
+            "author_2": "<em>Author</em>",
+            "text_2": "<p>Share positive thoughts and feedback from your customer.</p>",
+            "author_3": "<em>Author</em>",
+            "text_3": "<p>Share positive thoughts and feedback from your customer.</p>",
+            "margin_top": 24,
+            "margin_bottom": 24
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -254,6 +270,7 @@
         "buy_buttons",
         "e0a0b690-50df-4ca4-acfd-ce2980696cce",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
+        "reviews_kL4ad7",
         "description"
       ],
       "custom_css": [],
