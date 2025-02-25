@@ -12,16 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "title": {
-          "type": "title",
-          "settings": {
-            "text_size": "h1",
-            "title_alignment": "left",
-            "uppercase_title": false,
-            "margin_top": 0,
-            "margin_bottom": 0
-          }
-        },
         "ecb23c6d-d1a2-4f62-a023-927e2b3614be": {
           "type": "shopify://apps/audien-reviews/blocks/star_rating/ce002b21-24e0-4d65-87ca-18c9770b24d4",
           "settings": {
@@ -32,6 +22,16 @@
             "rating_color_for_star": "rgba(0,0,0,0)",
             "primary_color_for_star": "rgba(0,0,0,0)",
             "custom_css": ""
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "text_size": "h1",
+            "title_alignment": "left",
+            "uppercase_title": false,
+            "margin_top": 0,
+            "margin_bottom": 0
           }
         },
         "price": {
@@ -69,6 +69,37 @@
             "breaks_captions": "Variant 1 caption, Variant 2 caption, Variant 3 caption",
             "breaks_price_texts": "[price], [price], [price]",
             "breaks_compare_price_texts": "[compare_price], [compare_price], [compare_price]",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
+        "text_x9eXDk": {
+          "type": "text",
+          "settings": {
+            "mobile_text_size": 14,
+            "desktop_text_size": 16,
+            "alignment": "left",
+            "text_color": "#353434",
+            "text_1": "<strong>✨ Instant Glow in Minutes</strong>",
+            "text_2": "<strong>💧 Intense Hydration Boost</strong>",
+            "text_3": "<strong>🌸 Smooth & Firm Your Skin</strong>",
+            "icon_scale": 120,
+            "icon_color": "#121212",
+            "icon_1": "",
+            "filled_icon_1": false,
+            "icon_2": "",
+            "filled_icon_2": false,
+            "icon_3": "",
+            "filled_icon_3": false,
+            "width": "100%",
+            "direction": "vertical",
+            "column_gap": 3,
+            "enable_bg": false,
+            "bg_color": "#F3F3F3",
+            "corner_radius": 40,
+            "padding": 3,
+            "border_size": 0,
+            "border_color": "#B7B7B7",
             "margin_top": 15,
             "margin_bottom": 15
           }
@@ -214,10 +245,11 @@
         }
       },
       "block_order": [
-        "title",
         "ecb23c6d-d1a2-4f62-a023-927e2b3614be",
+        "title",
         "price",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
+        "text_x9eXDk",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
         "buy_buttons",
         "e0a0b690-50df-4ca4-acfd-ce2980696cce",
