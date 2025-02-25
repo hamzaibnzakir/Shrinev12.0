@@ -272,6 +272,7 @@
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "margin_top": 24,
             "margin_bottom": 24
@@ -339,6 +340,50 @@
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 24
+      }
+    },
+    "rich_text_xCEfGE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eBFjCW": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>⭐⭐⭐⭐⭐</p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_khbdjQ": {
+          "type": "text",
+          "settings": {
+            "text": "<h4><strong>\"My skin instantly felt softer and had a radiant glow—love it!\"</strong></h4><h5>-Sarah, CA</h5>"
+          }
+        },
+        "button_cgeLRG": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_eBFjCW",
+        "text_khbdjQ",
+        "button_cgeLRG"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "8beb6911-28c6-482c-976a-e5421ad3e8df": {
@@ -623,6 +668,7 @@
   "order": [
     "main",
     "related-products",
+    "rich_text_xCEfGE",
     "8beb6911-28c6-482c-976a-e5421ad3e8df",
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
     "section_divider_hkgTj4",
