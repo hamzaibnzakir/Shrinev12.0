@@ -14,31 +14,16 @@
     "2c2ec774-3430-481f-b927-e9c035b9d24e": {
       "type": "horizontal-ticker",
       "blocks": {
-        "sections--18060430639399__2c2ec774-3430-481f-b927-e9c035b9d24e-1679250655d32e639c-0": {
-          "type": "text",
-          "settings": {
-            "title": "WELCOME!"
-          }
-        },
-        "sections--18060430639399__2c2ec774-3430-481f-b927-e9c035b9d24e-1679250655d32e639c-1": {
-          "type": "text",
-          "settings": {
-            "title": "SITEWIDE SALE"
-          }
-        },
         "sections--18060430639399__2c2ec774-3430-481f-b927-e9c035b9d24e-1679250655d32e639c-2": {
           "type": "text",
           "settings": {
-            "title": "USE CODE X FOR X% OFF!"
+            "title": "🚚 Free Shipping on All Orders Over $50! Shop Now!"
           }
         }
       },
       "block_order": [
-        "sections--18060430639399__2c2ec774-3430-481f-b927-e9c035b9d24e-1679250655d32e639c-0",
-        "sections--18060430639399__2c2ec774-3430-481f-b927-e9c035b9d24e-1679250655d32e639c-1",
         "sections--18060430639399__2c2ec774-3430-481f-b927-e9c035b9d24e-1679250655d32e639c-2"
       ],
-      "disabled": true,
       "settings": {
         "visibility": "always-display",
         "speed": 3,
@@ -83,6 +68,7 @@
       "block_order": [
         "sections--21450414096679__fe1c8c67-b84c-4466-a515-70df3134c1c0-announcement-1"
       ],
+      "disabled": true,
       "settings": {
         "columns_desktop": 1,
         "columns_mobile": 1,
