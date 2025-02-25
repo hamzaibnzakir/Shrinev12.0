@@ -360,6 +360,7 @@
         },
         "button_cgeLRG": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": "",
@@ -511,6 +512,7 @@
         "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-3",
         "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-4"
       ],
+      "disabled": true,
       "settings": {
         "display_id": false,
         "visibility": "always-display",
@@ -540,6 +542,45 @@
         "col_6_desktop_width": 3,
         "col_6_mobile_width": 4,
         "col_6_visibility": "always-display",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_cVX8Ny": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_8amjby": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get Youthful, Glowing Skin in Minutes",
+            "heading_size": "h1"
+          }
+        },
+        "text_xKwnyX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Reveal brighter, smoother, and younger-looking skin with our EternaGlow™ Collagen Mask. Packed with premium bio-collagen, it reduces fine lines, hydrates deeply, and gives your skin a glowing, healthy appearance immediately.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8amjby",
+        "text_xKwnyX"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -625,16 +666,309 @@
         "padding_bottom": 36
       }
     },
-    "section_divider_hkgTj4": {
+    "multicolumn_pGeb9Q": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_LGtfCp": {
+          "type": "column",
+          "settings": {
+            "muted_autoplay": true,
+            "title": "🌟 Instantly Refreshes & Revitalizes",
+            "text": "<p>Say goodbye to dull skin in just one use. Enjoy a noticeable glow and silky-smooth texture.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_KmcnLt": {
+          "type": "column",
+          "settings": {
+            "muted_autoplay": true,
+            "title": "🌿 Deeply Moisturizing Formula",
+            "text": "<p>Our bio-collagen deeply hydrates your skin. Perfect for restoring moisture and softness.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_KbWhD7": {
+          "type": "column",
+          "settings": {
+            "muted_autoplay": true,
+            "title": "⏰ Quick & Convenient",
+            "text": "<p>Simple to use, fits easily into any skincare routine. Results in just 15 minutes—no hassle!</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_LGtfCp",
+        "column_KmcnLt",
+        "column_KbWhD7"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Key Benefits",
+        "heading_size": "h1",
+        "button_label": "",
+        "button_link": "",
+        "atc_button_label": "",
+        "atc_product": "",
+        "color_scheme": "background-1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "left",
+        "cards_color_scheme": "bg-overlay",
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "columns_mobile": "1",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_tWLPh4": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_wJQUBK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Your Secret to Radiant Skin",
+            "heading_size": "h1"
+          }
+        },
+        "text_VTW88p": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Transform your skincare routine with EternaGlow™. Feel confident every day with naturally glowing, youthful skin.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wJQUBK",
+        "text_VTW88p"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_AEFig3": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_4DK6n4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Loved by Thousands Worldwide",
+            "heading_size": "h1"
+          }
+        },
+        "text_tkqRGe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Join countless happy customers who've discovered softer, healthier-looking skin with our collagen mask. See why it’s rated #1 in skincare must-haves!</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4DK6n4",
+        "text_tkqRGe"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_divider_HWrNyw": {
       "type": "section-divider",
       "settings": {
         "shape": "waves_3",
-        "flip_horizontal": true,
+        "flip_horizontal": false,
         "flip_vertical": false,
         "shape_color": "accent-1",
         "background_color": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "rich_text_Qp6wbD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HK7cDn": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>30 Day Glow Guarantee</p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_cB4Mjw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We’re confident you'll love the EternaGlow™ Collagen Mask. If you’re not completely satisfied, get a full refund within 30 days.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HK7cDn",
+        "text_cB4Mjw"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "section_divider_M6webz": {
+      "type": "section-divider",
+      "settings": {
+        "shape": "waves_3",
+        "flip_horizontal": false,
+        "flip_vertical": true,
+        "shape_color": "accent-1",
+        "background_color": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collapsible_content_pPT6JE": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_qBhdUM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How often should I use the mask?",
+            "icon": "question_mark",
+            "filled_icon": false,
+            "row_content": "<p>We recommend using it 2-3 times per week for best results, but you can use it whenever your skin needs a boost.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_zyjKhe": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is it suitable for sensitive skin?",
+            "icon": "question_mark",
+            "filled_icon": false,
+            "row_content": "<p>Yes! Our gentle formula is suitable for all skin types, including sensitive skin.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_QFpG8U": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I reuse the mask?",
+            "icon": "question_mark",
+            "filled_icon": false,
+            "row_content": "<p>Each mask is single-use to ensure freshness and effectiveness.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_LdnbJX": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How soon will I see results?",
+            "icon": "question_mark",
+            "filled_icon": false,
+            "row_content": "<p>You'll see an instant glow after the first use, with increased benefits from regular use.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_UgkbBk": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do I wash my face after removing the mask?",
+            "icon": "question_mark",
+            "filled_icon": false,
+            "row_content": "<p>Nope! Gently massage any leftover serum into your skin for added hydration.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_cwrwGL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is it cruelty-free?",
+            "icon": "question_mark",
+            "filled_icon": false,
+            "row_content": "<p>Absolutely! We’re proud to be cruelty-free and never test on animals.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_qBhdUM",
+        "collapsible_row_zyjKhe",
+        "collapsible_row_QFpG8U",
+        "collapsible_row_LdnbJX",
+        "collapsible_row_UgkbBk",
+        "collapsible_row_cwrwGL"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "caption": "",
+        "heading": "FAQ (Frequently Asked Questions)",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "row_heading_size": "medium",
+        "collapse_icon": "carret",
+        "display_top_border": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "ce002b21-24e0-4d65-87ca-18c9770b24d4": {
@@ -670,8 +1004,15 @@
     "related-products",
     "rich_text_xCEfGE",
     "8beb6911-28c6-482c-976a-e5421ad3e8df",
+    "image_with_text_cVX8Ny",
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
-    "section_divider_hkgTj4",
+    "multicolumn_pGeb9Q",
+    "image_with_text_tWLPh4",
+    "image_with_text_AEFig3",
+    "section_divider_HWrNyw",
+    "rich_text_Qp6wbD",
+    "section_divider_M6webz",
+    "collapsible_content_pPT6JE",
     "ce002b21-24e0-4d65-87ca-18c9770b24d4",
     "421b5ad9-18b2-4b2a-8205-8700f2cd0d94"
   ]
