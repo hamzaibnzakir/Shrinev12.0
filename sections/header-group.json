@@ -91,7 +91,7 @@
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": true,
         "color_scheme": "background-1",
-        "logo_position": "middle-left",
+        "logo_position": "middle-center",
         "menu": "main-menu",
         "highlight_active_link": true,
         "highlighted_link_color_scheme": "accent-1",
@@ -136,6 +136,7 @@
         "text_iDbgnH",
         "text_RcDpcp"
       ],
+      "disabled": true,
       "settings": {
         "visibility": "always-display",
         "speed": 3,
