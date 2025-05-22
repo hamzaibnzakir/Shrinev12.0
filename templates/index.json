@@ -83,7 +83,7 @@
           "settings": {
             "button_label": "Shop Now",
             "button_link": "shopify://products/new-mini-neck-fan-portable-bladeless-hanging-neck-rechargeable-air-cooler-mini-summer-sports-fans",
-            "button_style_secondary": false,
+            "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false

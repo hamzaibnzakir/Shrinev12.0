@@ -163,7 +163,7 @@
             "uppercase_text": true,
             "display_price": false,
             "enable_custom_color": false,
-            "custom_color": "#f3e5c8",
+            "custom_color": "#000000",
             "margin_top": 24,
             "margin_bottom": 24
           }
