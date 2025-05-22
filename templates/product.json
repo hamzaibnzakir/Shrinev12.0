@@ -12,18 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "ecb23c6d-d1a2-4f62-a023-927e2b3614be": {
-          "type": "shopify://apps/audien-reviews/blocks/star_rating/ce002b21-24e0-4d65-87ca-18c9770b24d4",
-          "settings": {
-            "size": 16,
-            "rating_text": "4.8 (1,000+ Happy Customers)",
-            "rating_hide_text": false,
-            "widget_alignment": "left",
-            "rating_color_for_star": "rgba(0,0,0,0)",
-            "primary_color_for_star": "rgba(0,0,0,0)",
-            "custom_css": ""
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -36,7 +24,6 @@
         },
         "price": {
           "type": "price",
-          "disabled": true,
           "settings": {
             "layout": "price_first",
             "price_color": "accent-1",
@@ -80,9 +67,9 @@
             "desktop_text_size": 16,
             "alignment": "left",
             "text_color": "#353434",
-            "text_1": "<strong>✨ Instant Glow in Minutes</strong>",
-            "text_2": "<strong>💧 Intense Hydration Boost</strong>",
-            "text_3": "<strong>🌸 Smooth & Firm Your Skin</strong>",
+            "text_1": "🙌 <strong>Hands-Free Wear</strong>",
+            "text_2": "🎨 <strong>Sleek Modern Look</strong>",
+            "text_3": "🎒 <strong>Lightweight & Portable</strong>",
             "icon_scale": 120,
             "icon_color": "#121212",
             "icon_1": "",
@@ -95,11 +82,11 @@
             "direction": "vertical",
             "column_gap": 3,
             "enable_bg": false,
-            "bg_color": "#F3F3F3",
+            "bg_color": "#f3f3f3",
             "corner_radius": 40,
             "padding": 3,
             "border_size": 0,
-            "border_color": "#B7B7B7",
+            "border_color": "#b7b7b7",
             "margin_top": 15,
             "margin_bottom": 15
           }
@@ -107,7 +94,7 @@
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6": {
           "type": "quantity_selector",
           "settings": {
-            "enable_quantity_discounts": true,
+            "enable_quantity_discounts": false,
             "style": "normal",
             "headline": "FREE SHIPPING ALL ORDERS",
             "preselected": "option_1",
@@ -163,6 +150,7 @@
         },
         "custom_liquid_dFdfQx": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\">\n  <svg width=\"15\" height=\"15\" aria-hidden=\"true\" class=\"pulsing-dot\">\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgb(62,214,96, 0.3)\"></circle>\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(62,214,96)\"></circle>\n  </svg>\n  Left in Stock: 7 Masks\n</p>\n\n<style>\n  .pulsing-dot {\n    animation: pulse 1.5s infinite;\n  }\n\n  @keyframes pulse {\n    0% {\n      transform: scale(1);\n      opacity: 1;\n    }\n    50% {\n      transform: scale(1.2);\n      opacity: 0.7;\n    }\n    100% {\n      transform: scale(1);\n      opacity: 1;\n    }\n  }\n</style>"
           }
@@ -258,14 +246,11 @@
             "star_color": "#ffcc00",
             "avatar_alignment": "top",
             "author_1": "<em>Meredith H.</em>",
-            "text_1": "<p><em>\"Obsessed! My skin feels incredibly smooth and hydrated after every use—total game changer!\"</em></p>",
-            "image_1": "shopify://shop_images/429673671_18417651388002274_5026951192226424869_n.webp",
+            "text_1": "<p>Used it during my beach trip lifesaver! Super comfy and kept me cool all day.</p>",
             "author_2": "<em>Yuni M.</em>",
-            "text_2": "<p>\"Bought this as a gift for my best friend, and she was obsessed! The results are immaculate, and the comfort is unreal!\"</p>",
-            "image_2": "shopify://shop_images/Screenshot_2024-11-19_at_9.20.54_PM.png",
+            "text_2": "<p><em>Didn’t expect it to be this powerful. Battery lasted my whole hike!</em></p>",
             "author_3": "<em>Kylie R.</em>",
-            "text_3": "<p><em>I’m so happy!! It actually came!</em></p>",
-            "image_3": "shopify://shop_images/aTfCYmFpRy_mid.jpg",
+            "text_3": "<p><em>“Quiet, lightweight, and stylish. I wear it at the gym and barely notice it’s there.</em></p>",
             "margin_top": 24,
             "margin_bottom": 24
           }
@@ -280,7 +265,6 @@
         }
       },
       "block_order": [
-        "ecb23c6d-d1a2-4f62-a023-927e2b3614be",
         "title",
         "price",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
@@ -355,7 +339,7 @@
         "text_khbdjQ": {
           "type": "text",
           "settings": {
-            "text": "<h4><strong>\"My skin instantly felt softer and had a radiant glow—love it!\"</strong></h4><h5>-Sarah, CA</h5>"
+            "text": "<h4><em>Perfect for theme parks and outdoor festivals. No more sweating through my clothes!</em></h4><h5>-Sarah, CA</h5>"
           }
         },
         "button_cgeLRG": {
@@ -457,7 +441,6 @@
           "settings": {
             "column": "col_3",
             "visibility": "always-display",
-            "image": "shopify://shop_images/S31bad29f6c894a5d8765a9a76683636ch.webp",
             "width": 100,
             "alignment": "center",
             "mobile_alignment": "center",
@@ -552,14 +535,14 @@
         "heading_8amjby": {
           "type": "heading",
           "settings": {
-            "heading": "Get Youthful, Glowing Skin in Minutes",
+            "heading": "Use It Everywhere",
             "heading_size": "h1"
           }
         },
         "text_xKwnyX": {
           "type": "text",
           "settings": {
-            "text": "<p>Reveal brighter, smoother, and younger-looking skin with our EternaGlow™ Collagen Mask. Packed with premium bio-collagen, it reduces fine lines, hydrates deeply, and gives your skin a glowing, healthy appearance immediately.</p>",
+            "text": "<p>Feel fresh, wherever you are. Whether you're out for a run, browsing shops, enjoying a picnic, or dining on a sunny terrace, this lightweight neck fan keeps a steady breeze flowing with you. Hands-free, silent, and designed for everyday movement</p>",
             "text_style": "body"
           }
         }
@@ -571,7 +554,6 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/WhatsAppVideo2025-01-27at5.37.59PM-ezgif.com-video-to-gif-converter.webp",
         "height": "adapt",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -771,7 +753,6 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/WhatsAppVideo2025-01-27at5.37.58PM-ezgif.com-video-to-gif-converter.webp",
         "height": "adapt",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -811,7 +792,6 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/WhatsAppVideo2025-01-27at5.37.59PM1-ezgif.com-video-to-gif-converter.webp",
         "height": "adapt",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -976,15 +956,6 @@
     },
     "ce002b21-24e0-4d65-87ca-18c9770b24d4": {
       "type": "apps",
-      "blocks": {
-        "ce002b21-24e0-4d65-87ca-18c9770b24d4": {
-          "type": "shopify://apps/audien-reviews/blocks/review_list/ce002b21-24e0-4d65-87ca-18c9770b24d4",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "ce002b21-24e0-4d65-87ca-18c9770b24d4"
-      ],
       "settings": {
         "include_margins": true
       }
