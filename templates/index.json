@@ -32,32 +32,10 @@
             "transparent_container_color": "black",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_AAxFa4": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_21_mai_2025_19_28_44.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "atc_button_label": "",
-            "atc_product": "",
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "transparent_container_color": "white",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
-        "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-1",
-        "slide_AAxFa4"
+        "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-1"
       ],
       "settings": {
         "visibility": "always-display",
@@ -97,7 +75,7 @@
         "text_hFFDVU": {
           "type": "text",
           "settings": {
-            "text": "<p>At <strong>Frigana</strong>, we’re all about keeping you cool, comfortable, and carefree—wherever summer takes you. Our innovative portable fans are designed for life on the go, so whether you're beachside, poolside, or out on an adventure, staying refreshed is just a breeze away. Built with style and comfort in mind, Frigana helps you beat the heat without missing a beat.</p>"
+            "text": "<p>At <strong>Frigana</strong>, we’re all about keeping you fresh, comfortable, and carefree—wherever summer takes you. Our innovative portable fans are designed for life on the go, so whether you're beachside, poolside, or out on an adventure, staying refreshed is just a breeze away. Built with style and comfort in mind, Frigana helps you beat the heat without missing a beat.</p>"
           }
         },
         "button_FNzg3k": {
