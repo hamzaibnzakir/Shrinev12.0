@@ -75,7 +75,7 @@
         "text_hFFDVU": {
           "type": "text",
           "settings": {
-            "text": "<p>At OUR STORE, we make parenting easier with high-quality, safe, and functional essentials. From travel-friendly solutions to everyday must-haves, our products are thoughtfully curated to support your parenting journey.</p>"
+            "text": "<p>At <strong>Frigana</strong>, we’re all about keeping you cool, comfortable, and carefree—wherever summer takes you. Our innovative portable fans are designed for life on the go, so whether you're beachside, poolside, or out on an adventure, staying refreshed is just a breeze away. Built with style and comfort in mind, Frigana helps you beat the heat without missing a beat.</p>"
           }
         },
         "button_FNzg3k": {
@@ -259,9 +259,9 @@
             "desktop_text_size": 16,
             "alignment": "left",
             "text_color": "#121212",
-            "text_1": "Waterproof 💧",
-            "text_2": "Versatile Use 🚗",
-            "text_3": "Compact & Portable 👜",
+            "text_1": "<strong>360° Airflow </strong>🌬️",
+            "text_2": "<strong>Quiet Operation</strong> 🎧",
+            "text_3": "<strong>Hands-Free Cooling</strong> ✅",
             "icon_scale": 120,
             "icon_color": "#121212",
             "icon_1": "check_circle",
@@ -374,7 +374,7 @@
         "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-3": {
           "type": "row",
           "settings": {
-            "benefit": "Innovative Designs",
+            "benefit": "Long-Lasting Battery",
             "us": true,
             "others": false
           }
@@ -388,9 +388,9 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "BENEFITS OVER OTHERS",
+        "title": "Benefits Over Others",
         "heading_size": "h1",
-        "text": "<h5>BabyOasis makes it possible for parents to enjoy luxury without breaking the bank.</h5>",
+        "text": "<p>Why settle for basic fans when <strong>Frigana</strong> brings you hands-free, 360° cooling with style? Stay cool <em>without the bulk, noise, or limits</em>. 💨✨</p>",
         "button_label": "",
         "link": "",
         "button_style_secondary": false,
