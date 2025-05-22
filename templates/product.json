@@ -554,6 +554,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
+        "image": "shopify://shop_images/men_carre.png",
         "height": "adapt",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -656,8 +657,8 @@
           "type": "column",
           "settings": {
             "muted_autoplay": true,
-            "title": "🌟 Instantly Refreshes & Revitalizes",
-            "text": "<p>Say goodbye to dull skin in just one use. Enjoy a noticeable glow and silky-smooth texture.</p>",
+            "title": "🔋 All-Day Battery",
+            "text": "<p>Stay cool for hours on a single charge great for long summer outings.</p>",
             "link_label": "",
             "link": ""
           }
@@ -666,8 +667,8 @@
           "type": "column",
           "settings": {
             "muted_autoplay": true,
-            "title": "🌿 Deeply Moisturizing Formula",
-            "text": "<p>Our bio-collagen deeply hydrates your skin. Perfect for restoring moisture and softness.</p>",
+            "title": "🌀 Bladeless & Safe",
+            "text": "<p>Hair-proof and child-friendly no exposed blades, just smooth cooling.</p><p></p>",
             "link_label": "",
             "link": ""
           }
@@ -676,8 +677,8 @@
           "type": "column",
           "settings": {
             "muted_autoplay": true,
-            "title": "⏰ Quick & Convenient",
-            "text": "<p>Simple to use, fits easily into any skincare routine. Results in just 15 minutes—no hassle!</p>",
+            "title": "🎨 Sleek Modern Look",
+            "text": "<p>Not just functional—looks clean, minimal, and fits any summer fit.</p>",
             "link_label": "",
             "link": ""
           }
@@ -734,14 +735,14 @@
         "heading_wJQUBK": {
           "type": "heading",
           "settings": {
-            "heading": "Your Secret to Radiant Skin",
-            "heading_size": "h1"
+            "heading": "Unmatched Safety",
+            "heading_size": "h2"
           }
         },
         "text_VTW88p": {
           "type": "text",
           "settings": {
-            "text": "<p>Transform your skincare routine with EternaGlow™. Feel confident every day with naturally glowing, youthful skin.</p>",
+            "text": "<p>The bladeless, fully enclosed design ensures complete safety for all users — no exposed parts, no risks. Perfect for everyday use, even around children and pets.</p>",
             "text_style": "body"
           }
         }
@@ -753,51 +754,13 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
+        "image": "shopify://shop_images/ssafety.png",
         "height": "adapt",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "section_color_scheme": "background-1",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "mobile_full_media_width": false,
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_AEFig3": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_4DK6n4": {
-          "type": "heading",
-          "settings": {
-            "heading": "Loved by Thousands Worldwide",
-            "heading_size": "h1"
-          }
-        },
-        "text_tkqRGe": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Join countless happy customers who've discovered softer, healthier-looking skin with our collagen mask. See why it’s rated #1 in skincare must-haves!</p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_4DK6n4",
-        "text_tkqRGe"
-      ],
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "height": "adapt",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "section_color_scheme": "background-1",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "mobile_full_media_width": false,
@@ -982,7 +945,6 @@
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
     "multicolumn_pGeb9Q",
     "image_with_text_tWLPh4",
-    "image_with_text_AEFig3",
     "section_divider_HWrNyw",
     "rich_text_Qp6wbD",
     "section_divider_M6webz",
