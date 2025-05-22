@@ -289,13 +289,13 @@
             "icon_color": "accent-1",
             "icon_1": "favorite",
             "icon_1_fill": true,
-            "heading_1": "Loved by Parents",
+            "heading_1": "Loved Product",
             "icon_2": "undo",
             "icon_2_fill": true,
             "heading_2": "Easy Returns",
             "icon_3": "local_shipping",
             "icon_3_fill": true,
-            "heading_3": "Fast Shipping",
+            "heading_3": "Fast Shippng",
             "margin_top": 24,
             "margin_bottom": 24
           }
@@ -322,9 +322,9 @@
         "share_BaFHrA"
       ],
       "settings": {
-        "display_id": false,
+        "display_id": true,
         "visibility": "always-display",
-        "product": "eternaglow™-collagen-mask",
+        "product": "new-mini-neck-fan-portable-bladeless-hanging-neck-rechargeable-air-cooler-mini-summer-sports-fans",
         "color_scheme": "background-1",
         "secondary_background": false,
         "media_size": "medium",
