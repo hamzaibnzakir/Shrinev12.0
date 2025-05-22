@@ -365,7 +365,7 @@
         "visibility": "always-display",
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "accent-2",
+        "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -698,7 +698,7 @@
         "button_link": "",
         "atc_button_label": "",
         "atc_product": "",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-2",
         "image_width": "full",
         "image_ratio": "square",
         "column_alignment": "left",
@@ -787,14 +787,14 @@
         "heading_HK7cDn": {
           "type": "heading",
           "settings": {
-            "heading": "<p>30 Day Glow Guarantee</p>",
+            "heading": "<p><strong>Frigana™ Hands-Free Neck Fan</strong></p>",
             "heading_size": "h1"
           }
         },
         "text_cB4Mjw": {
           "type": "text",
           "settings": {
-            "text": "<p>We’re confident you'll love the EternaGlow™ Collagen Mask. If you’re not completely satisfied, get a full refund within 30 days.</p>"
+            "text": "<p>Beat the heat in style with the Frigana™ portable neck fan. Designed for summer lovers, this bladeless fan delivers powerful airflow while keeping your hands free. With 3 speed modes, quiet operation, and a sleek, ergonomic fit, it’s your perfect warm-weather companion at the beach, gym, or on the go.</p>"
           }
         }
       },
@@ -807,7 +807,7 @@
         "visibility": "always-display",
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -831,60 +831,60 @@
         "collapsible_row_qBhdUM": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How often should I use the mask?",
+            "heading": "What is Frigana’s portable fan used for?",
             "icon": "question_mark",
             "filled_icon": false,
-            "row_content": "<p>We recommend using it 2-3 times per week for best results, but you can use it whenever your skin needs a boost.</p>",
+            "row_content": "<p>Our fan is perfect for staying cool on the go whether you're at the beach, traveling, working out, or just relaxing outdoors.</p>",
             "page": ""
           }
         },
         "collapsible_row_zyjKhe": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Is it suitable for sensitive skin?",
+            "heading": "Do you ship internationally?",
             "icon": "question_mark",
             "filled_icon": false,
-            "row_content": "<p>Yes! Our gentle formula is suitable for all skin types, including sensitive skin.</p>",
+            "row_content": "<p>Yes, we offer <strong>worldwide shipping</strong> with tracking available on all orders.</p>",
             "page": ""
           }
         },
         "collapsible_row_QFpG8U": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can I reuse the mask?",
+            "heading": "How can I contact support?",
             "icon": "question_mark",
             "filled_icon": false,
-            "row_content": "<p>Each mask is single-use to ensure freshness and effectiveness.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_LdnbJX": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How soon will I see results?",
-            "icon": "question_mark",
-            "filled_icon": false,
-            "row_content": "<p>You'll see an instant glow after the first use, with increased benefits from regular use.</p>",
+            "row_content": "<p>You can reach us anytime at <a><strong>support@frigana.co</strong></a> or via our contact page.</p>",
             "page": ""
           }
         },
         "collapsible_row_UgkbBk": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Do I wash my face after removing the mask?",
+            "heading": "Is the fan rechargeable?",
             "icon": "question_mark",
             "filled_icon": false,
-            "row_content": "<p>Nope! Gently massage any leftover serum into your skin for added hydration.</p>",
+            "row_content": "<p>Yes! All Frigana fans are USB rechargeable and come with a charging cable included</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_LdnbJX": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is the fan safe for kids?",
+            "icon": "question_mark",
+            "filled_icon": false,
+            "row_content": "<p>Absolutely. With a <strong>bladeless design</strong>, it's completely safe for both kids and adults.</p>",
             "page": ""
           }
         },
         "collapsible_row_cwrwGL": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Is it cruelty-free?",
+            "heading": "Is it noisy?",
             "icon": "question_mark",
             "filled_icon": false,
-            "row_content": "<p>Absolutely! We’re proud to be cruelty-free and never test on animals.</p>",
+            "row_content": "<p>Not at all. Our fan is designed to be <strong>ultra-quiet</strong>, so you can stay cool without the distraction.</p>",
             "page": ""
           }
         }
@@ -893,8 +893,8 @@
         "collapsible_row_qBhdUM",
         "collapsible_row_zyjKhe",
         "collapsible_row_QFpG8U",
-        "collapsible_row_LdnbJX",
         "collapsible_row_UgkbBk",
+        "collapsible_row_LdnbJX",
         "collapsible_row_cwrwGL"
       ],
       "settings": {
