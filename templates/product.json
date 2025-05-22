@@ -26,7 +26,7 @@
           "type": "price",
           "settings": {
             "layout": "price_first",
-            "price_color": "accent-1",
+            "price_color": "outline-button",
             "compare_price_color": "text",
             "hide_sale_badge": false,
             "margin_top": 9,
@@ -67,9 +67,9 @@
             "desktop_text_size": 16,
             "alignment": "left",
             "text_color": "#353434",
-            "text_1": "🙌 <strong>Hands-Free Wear</strong>",
+            "text_1": "<strong> 🔋 2h – 16h Battery (depends on level)</strong>",
             "text_2": "🎨 <strong>Sleek Modern Look</strong>",
-            "text_3": "🎒 <strong>Lightweight & Portable</strong>",
+            "text_3": "🙌 <strong>Lightweight & Hands-Free</strong>",
             "icon_scale": 120,
             "icon_color": "#121212",
             "icon_1": "",
@@ -529,17 +529,17 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_cVX8Ny": {
+    "image_with_text_YYQb4H": {
       "type": "image-with-text",
       "blocks": {
-        "heading_8amjby": {
+        "heading_UU4E6Y": {
           "type": "heading",
           "settings": {
             "heading": "Use It Everywhere",
             "heading_size": "h1"
           }
         },
-        "text_xKwnyX": {
+        "text_jtibcx": {
           "type": "text",
           "settings": {
             "text": "<p>Feel fresh, wherever you are. Whether you're out for a run, browsing shops, enjoying a picnic, or dining on a sunny terrace, this lightweight neck fan keeps a steady breeze flowing with you. Hands-free, silent, and designed for everyday movement</p>",
@@ -548,8 +548,8 @@
         }
       },
       "block_order": [
-        "heading_8amjby",
-        "text_xKwnyX"
+        "heading_UU4E6Y",
+        "text_jtibcx"
       ],
       "settings": {
         "display_id": false,
@@ -941,7 +941,7 @@
     "related-products",
     "rich_text_xCEfGE",
     "8beb6911-28c6-482c-976a-e5421ad3e8df",
-    "image_with_text_cVX8Ny",
+    "image_with_text_YYQb4H",
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
     "multicolumn_pGeb9Q",
     "image_with_text_tWLPh4",
