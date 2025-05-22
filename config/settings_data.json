@@ -18,15 +18,15 @@
     "mobile_logo_width": 90,
     "favicon": "shopify://shop_images/3096983.png",
     "colors_solid_button_labels": "#ffffff",
-    "colors_accent_1": "#ffb6c1",
-    "gradient_accent_1": "",
+    "colors_accent_1": "#f3e5c8",
+    "gradient_accent_1": "linear-gradient(0deg, rgba(255, 154, 98, 1), rgba(255, 204, 75, 1) 100%)",
     "colors_accent_2": "#ffb6c1",
     "gradient_accent_2": "",
     "colors_text": "#000000",
-    "colors_outline_button_labels": "#ffb6c1",
+    "colors_outline_button_labels": "#f3e5c8",
     "colors_background_1": "#f8f9fa",
     "gradient_background_1": "",
-    "colors_background_2": "#ffb6c1",
+    "colors_background_2": "#f3e5c8",
     "gradient_background_2": "",
     "type_header_font": "volkhov_n4",
     "heading_scale": 130,
@@ -498,14 +498,7 @@
         }
       }
     },
-    "content_for_index": [],
-    "blocks": {
-      "11901248931489288752": {
-        "type": "shopify://apps/audien-reviews/blocks/audien-reviews/ce002b21-24e0-4d65-87ca-18c9770b24d4",
-        "disabled": false,
-        "settings": {}
-      }
-    }
+    "content_for_index": []
   },
   "presets": {
     "Default": {
