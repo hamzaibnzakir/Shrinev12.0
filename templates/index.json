@@ -183,9 +183,9 @@
         "image_ratio": "square",
         "column_alignment": "center",
         "cards_color_scheme": "background-2",
-        "type": "slide",
-        "autoplay": false,
-        "autoplay_speed": 8,
+        "type": "loop",
+        "autoplay": true,
+        "autoplay_speed": 5,
         "arrows_color_scheme": "inverse",
         "transparent_arrows": true,
         "dots_color_scheme": "inverse",
@@ -463,126 +463,6 @@
         "background_color": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "image_with_text_L6Jd4A": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_3kVch4": {
-          "type": "heading",
-          "settings": {
-            "heading": "Use It Everywhere",
-            "heading_size": "h1"
-          }
-        },
-        "text_YQRUmA": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Feel fresh, wherever you are. Whether you're out for a run, browsing shops, enjoying a picnic, or dining on a sunny terrace, this lightweight neck fan keeps a steady breeze flowing with you. Hands-free, silent, and designed for everyday movement</p>",
-            "text_style": "subtitle"
-          }
-        }
-      },
-      "block_order": [
-        "heading_3kVch4",
-        "text_YQRUmA"
-      ],
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "image": "shopify://shop_images/men_carre.png",
-        "height": "adapt",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "section_color_scheme": "background-1",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "mobile_full_media_width": false,
-        "mobile_content_alignment": "center",
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "image_with_text_i9ThNG": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_FTWADA": {
-          "type": "heading",
-          "settings": {
-            "heading": "Unmatched Safety",
-            "heading_size": "h2"
-          }
-        },
-        "text_6C47FJ": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The bladeless, fully enclosed design ensures complete safety for all users — no exposed parts, no risks. Perfect for everyday use, even around children and pets.</p>",
-            "text_style": "subtitle"
-          }
-        }
-      },
-      "block_order": [
-        "heading_FTWADA",
-        "text_6C47FJ"
-      ],
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "image": "shopify://shop_images/ssafety.png",
-        "height": "adapt",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "section_color_scheme": "background-1",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "mobile_full_media_width": false,
-        "mobile_content_alignment": "center",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_3gDMUp": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_MLmrjL": {
-          "type": "heading",
-          "settings": {
-            "heading": "Use It Everywhere",
-            "heading_size": "h1"
-          }
-        },
-        "text_aY6E4k": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Feel fresh, wherever you are. Whether you're out for a run, browsing shops, enjoying a picnic, or dining on a sunny terrace, this lightweight neck fan keeps a steady breeze flowing with you. Hands-free, silent, and designed for everyday movement</p>",
-            "text_style": "subtitle"
-          }
-        }
-      },
-      "block_order": [
-        "heading_MLmrjL",
-        "text_aY6E4k"
-      ],
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "image": "shopify://shop_images/a63e7810-4138-4abf-9b6b-bc7342c513b9.png",
-        "height": "adapt",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "section_color_scheme": "background-1",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "mobile_full_media_width": false,
-        "mobile_content_alignment": "center",
-        "padding_top": 0,
-        "padding_bottom": 36
       }
     },
     "featured_product_3FBrTN": {
@@ -907,9 +787,6 @@
     "slideshow_jJ6h9y",
     "section_divider_yDVDUm",
     "section_divider_Eq6FdX",
-    "image_with_text_L6Jd4A",
-    "image_with_text_i9ThNG",
-    "image_with_text_3gDMUp",
     "featured_product_3FBrTN",
     "collapsible_content_XRj6wx",
     "section_divider_cteg7q"
