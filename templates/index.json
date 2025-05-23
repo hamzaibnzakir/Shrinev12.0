@@ -604,7 +604,7 @@
           "settings": {
             "mobile_text_size": 14,
             "desktop_text_size": 16,
-            "alignment": "left",
+            "alignment": "center",
             "text_color": "#121212",
             "text_1": "<strong>360° Airflow </strong>🌬️",
             "text_2": "<strong>Hours Of Battery 🔋</strong>",
