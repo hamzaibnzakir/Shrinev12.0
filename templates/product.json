@@ -67,7 +67,7 @@
             "desktop_text_size": 16,
             "alignment": "left",
             "text_color": "#353434",
-            "text_1": "<strong> 🔋 2h – 16h Battery (depends on level)</strong>",
+            "text_1": "<strong>🔋 Hours Of Battery</strong>",
             "text_2": "🎨 <strong>Sleek Modern Look</strong>",
             "text_3": "🙌 <strong>Lightweight & Hands-Free</strong>",
             "icon_scale": 120,
@@ -761,10 +761,10 @@
         "section_color_scheme": "background-1",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
         "mobile_full_media_width": false,
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "padding_top": 36,
         "padding_bottom": 36
       }

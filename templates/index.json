@@ -50,7 +50,19 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "section_divider_RmHKxJ": {
+    "section_divider_dKgmke": {
+      "type": "section-divider",
+      "settings": {
+        "shape": "waves_3",
+        "flip_horizontal": true,
+        "flip_vertical": false,
+        "shape_color": "accent-1",
+        "background_color": "accent-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_divider_WCLePV": {
       "type": "section-divider",
       "settings": {
         "shape": "waves_3",
@@ -83,9 +95,9 @@
           "settings": {
             "button_label": "Shop Now",
             "button_link": "shopify://products/new-mini-neck-fan-portable-bladeless-hanging-neck-rechargeable-air-cooler-mini-summer-sports-fans",
-            "button_style_secondary": true,
+            "button_style_secondary": false,
             "button_label_2": "",
-            "button_link_2": "",
+            "button_link_2": "shopify://products/new-mini-neck-fan-portable-bladeless-hanging-neck-rechargeable-air-cooler-mini-summer-sports-fans",
             "button_style_secondary_2": false
           }
         }
@@ -106,7 +118,7 @@
         "padding_bottom": 52
       }
     },
-    "section_divider_j9YbWk": {
+    "section_divider_3xgw8G": {
       "type": "section-divider",
       "settings": {
         "shape": "waves_3",
@@ -118,43 +130,243 @@
         "padding_bottom": 0
       }
     },
-    "slideshow_VBa9CQ": {
+    "multicolumn_jPyhCW": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ENgeJt": {
+          "type": "column",
+          "settings": {
+            "muted_autoplay": true,
+            "title": "🔋 All-Day Battery",
+            "text": "<p>Stay cool for hours on a single charge great for long summer outings.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_bCWtWR": {
+          "type": "column",
+          "settings": {
+            "muted_autoplay": true,
+            "title": "🌀 Bladeless & Safe",
+            "text": "<p>Hair-proof and child-friendly no exposed blades, just smooth cooling.</p><p></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_4LpNhV": {
+          "type": "column",
+          "settings": {
+            "muted_autoplay": true,
+            "title": "🎨 Sleek Modern Look",
+            "text": "<p>Not just functional—looks clean, minimal, and fits any summer fit.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_ENgeJt",
+        "column_bCWtWR",
+        "column_4LpNhV"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Key Benefits",
+        "heading_size": "h2",
+        "button_label": "",
+        "button_link": "",
+        "atc_button_label": "",
+        "atc_product": "",
+        "color_scheme": "accent-1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "center",
+        "cards_color_scheme": "background-2",
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 8,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "columns_mobile": "1",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_divider_ttiJRW": {
+      "type": "section-divider",
+      "settings": {
+        "shape": "waves_3",
+        "flip_horizontal": true,
+        "flip_vertical": true,
+        "shape_color": "accent-1",
+        "background_color": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_divider_fymitM": {
+      "type": "section-divider",
+      "settings": {
+        "shape": "waves_3",
+        "flip_horizontal": true,
+        "flip_vertical": false,
+        "shape_color": "background-1",
+        "background_color": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "slideshow_jJ6h9y": {
       "type": "slideshow",
+      "blocks": {
+        "slide_Ld6wPP": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/men_running_in_the_beach.png",
+            "mobile_image": "shopify://shop_images/men_carre.png",
+            "heading": "Use It Everywhere",
+            "heading_size": "h1",
+            "subheading": "Feel fresh, wherever you are. Whether you're out for a run, browsing shops, enjoying a picnic, or dining on a sunny terrace, this lightweight neck fan keeps a steady breeze flowing with you. Hands-free, silent, and designed for everyday movement.",
+            "button_label": "Shop White",
+            "link": "shopify://products/new-mini-neck-fan-portable-bladeless-hanging-neck-rechargeable-air-cooler-mini-summer-sports-fans",
+            "button_style_secondary": false,
+            "atc_button_label": "",
+            "atc_product": "",
+            "box_align": "middle-right",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 10,
+            "color_scheme": "background-1",
+            "transparent_container_color": "white",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_DAG8pP": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/ssafety.png",
+            "mobile_image": "shopify://shop_images/ssafety.png",
+            "heading": "Unmatched Safety",
+            "heading_size": "h1",
+            "subheading": "The bladeless, fully enclosed design ensures complete safety for all users. No exposed parts, no risks. Perfect for everyday use, even around children and pets.",
+            "button_label": "Shop Pink",
+            "link": "shopify://products/new-mini-neck-fan-portable-bladeless-hanging-neck-rechargeable-air-cooler-mini-summer-sports-fans",
+            "button_style_secondary": false,
+            "atc_button_label": "",
+            "atc_product": "",
+            "box_align": "middle-right",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "transparent_container_color": "white",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_44FK3i": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/a63e7810-4138-4abf-9b6b-bc7342c513b9.png",
+            "mobile_image": "shopify://shop_images/a63e7810-4138-4abf-9b6b-bc7342c513b9.png",
+            "heading": "Highest Technology",
+            "heading_size": "h1",
+            "subheading": "1. Featuring five adjustable airflow, from light breeze to powerful cooling. 2. Equipped with a high-capacity 5000mAh battery, offering up to 16.5 hours. 3. Using 360° Dynamic Airflow System Designed for maximum efficiency.",
+            "button_label": "Shop Blue",
+            "link": "shopify://products/new-mini-neck-fan-portable-bladeless-hanging-neck-rechargeable-air-cooler-mini-summer-sports-fans",
+            "button_style_secondary": false,
+            "atc_button_label": "",
+            "atc_product": "",
+            "box_align": "middle-right",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 10,
+            "color_scheme": "background-1",
+            "transparent_container_color": "white",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_Ld6wPP",
+        "slide_DAG8pP",
+        "slide_44FK3i"
+      ],
       "name": "t:sections.slideshow.presets.name",
       "settings": {
         "visibility": "always-display",
         "layout": "full_bleed",
-        "slide_height": "medium",
+        "slide_height": "large",
         "slider_visual": "dots",
-        "desktop_pagination_position": "over",
+        "desktop_pagination_position": "under",
         "auto_rotate": false,
-        "change_slides_speed": 5,
+        "change_slides_speed": 9,
         "show_text_below": true,
         "mobile_pagination_position": "under",
-        "accessibility_info": "Slideshow about our brand"
+        "accessibility_info": ""
       }
     },
-    "image_with_text_byLyrw": {
+    "section_divider_yDVDUm": {
+      "type": "section-divider",
+      "settings": {
+        "shape": "waves_3",
+        "flip_horizontal": true,
+        "flip_vertical": false,
+        "shape_color": "accent-1",
+        "background_color": "accent-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_divider_Eq6FdX": {
+      "type": "section-divider",
+      "settings": {
+        "shape": "waves_3",
+        "flip_horizontal": true,
+        "flip_vertical": true,
+        "shape_color": "accent-1",
+        "background_color": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_L6Jd4A": {
       "type": "image-with-text",
       "blocks": {
-        "heading_CtXiK3": {
+        "heading_3kVch4": {
           "type": "heading",
           "settings": {
             "heading": "Use It Everywhere",
             "heading_size": "h1"
           }
         },
-        "text_gyJAhG": {
+        "text_YQRUmA": {
           "type": "text",
           "settings": {
             "text": "<p>Feel fresh, wherever you are. Whether you're out for a run, browsing shops, enjoying a picnic, or dining on a sunny terrace, this lightweight neck fan keeps a steady breeze flowing with you. Hands-free, silent, and designed for everyday movement</p>",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         }
       },
       "block_order": [
-        "heading_CtXiK3",
-        "text_gyJAhG"
+        "heading_3kVch4",
+        "text_YQRUmA"
       ],
       "settings": {
         "display_id": false,
@@ -166,11 +378,91 @@
         "section_color_scheme": "background-1",
         "desktop_image_width": "medium",
         "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
         "mobile_full_media_width": false,
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_i9ThNG": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_FTWADA": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unmatched Safety",
+            "heading_size": "h2"
+          }
+        },
+        "text_6C47FJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The bladeless, fully enclosed design ensures complete safety for all users — no exposed parts, no risks. Perfect for everyday use, even around children and pets.</p>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FTWADA",
+        "text_6C47FJ"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/ssafety.png",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "mobile_full_media_width": false,
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_3gDMUp": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_MLmrjL": {
+          "type": "heading",
+          "settings": {
+            "heading": "Use It Everywhere",
+            "heading_size": "h1"
+          }
+        },
+        "text_aY6E4k": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Feel fresh, wherever you are. Whether you're out for a run, browsing shops, enjoying a picnic, or dining on a sunny terrace, this lightweight neck fan keeps a steady breeze flowing with you. Hands-free, silent, and designed for everyday movement</p>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MLmrjL",
+        "text_aY6E4k"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/a63e7810-4138-4abf-9b6b-bc7342c513b9.png",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "mobile_full_media_width": false,
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -190,11 +482,11 @@
         "rating_stars_qjWfW8": {
           "type": "rating_stars",
           "settings": {
-            "rating": 4.8,
+            "rating": 4.6,
             "star_color": "#ffcc00",
             "bg_stars_style": "full",
             "bg_star_color": "#ececec",
-            "label": "(5 Reviews)",
+            "label": "(1087 Reviews)",
             "size": 13,
             "alignment": "flex-start",
             "scroll_id": "",
@@ -299,11 +591,11 @@
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": false,
-            "skip_cart": false,
-            "uppercase_text": true,
+            "skip_cart": true,
+            "uppercase_text": false,
             "display_price": false,
-            "enable_custom_color": false,
-            "custom_color": "#dd1d1d",
+            "enable_custom_color": true,
+            "custom_color": "#ffb618",
             "margin_top": 24,
             "margin_bottom": 24
           }
@@ -316,7 +608,7 @@
             "alignment": "left",
             "text_color": "#121212",
             "text_1": "<strong>360° Airflow </strong>🌬️",
-            "text_2": "<strong>2h – 16h Battery (depends on level) 🔋</strong>",
+            "text_2": "<strong>Hours Of Battery 🔋</strong>",
             "text_3": "<strong>Hands-Free Cooling</strong> 🙌",
             "icon_scale": 120,
             "icon_color": "#121212",
@@ -396,6 +688,18 @@
         "padding_bottom": 36
       }
     },
+    "section_divider_36aMbT": {
+      "type": "section-divider",
+      "settings": {
+        "shape": "waves_3",
+        "flip_horizontal": true,
+        "flip_vertical": false,
+        "shape_color": "accent-1",
+        "background_color": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "section_divider_4L3qWP": {
       "type": "section-divider",
       "settings": {
@@ -459,7 +763,7 @@
         "mobile_logo_width": 60,
         "us_label": "[shop_name]",
         "us_label_size": 18,
-        "others_label": "Others",
+        "others_label": "Others Fans",
         "others_label_size": 18,
         "checkmark_style": "regular",
         "checkmark_color": "#ffffff",
@@ -485,6 +789,18 @@
         "shape": "waves_3",
         "flip_horizontal": true,
         "flip_vertical": false,
+        "shape_color": "accent-1",
+        "background_color": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_divider_QDUGAn": {
+      "type": "section-divider",
+      "settings": {
+        "shape": "waves_3",
+        "flip_horizontal": true,
+        "flip_vertical": true,
         "shape_color": "accent-1",
         "background_color": "background-1",
         "padding_top": 0,
@@ -572,108 +888,30 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
-    },
-    "slideshow_jJ6h9y": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_Ld6wPP": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/men_running_in_the_beach.png",
-            "mobile_image": "shopify://shop_images/men_carre.png",
-            "heading": "Use It Everywhere",
-            "heading_size": "h1",
-            "subheading": "Feel fresh, wherever you are. Whether you're out for a run, browsing shops, enjoying a picnic, or dining on a sunny terrace, this lightweight neck fan keeps a steady breeze flowing with you. Hands-free, silent, and designed for everyday movement",
-            "button_label": "Shop White",
-            "link": "shopify://products/new-mini-neck-fan-portable-bladeless-hanging-neck-rechargeable-air-cooler-mini-summer-sports-fans",
-            "button_style_secondary": false,
-            "atc_button_label": "",
-            "atc_product": "",
-            "box_align": "middle-right",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 10,
-            "color_scheme": "background-1",
-            "transparent_container_color": "white",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_DAG8pP": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/ssafety.png",
-            "mobile_image": "shopify://shop_images/ssafety.png",
-            "heading": "Unmatched Safety",
-            "heading_size": "h1",
-            "subheading": "The bladeless, fully enclosed design ensures complete safety for all users. No exposed parts, no risks. Perfect for everyday use, even around children and pets.",
-            "button_label": "Shop Pink",
-            "link": "shopify://products/new-mini-neck-fan-portable-bladeless-hanging-neck-rechargeable-air-cooler-mini-summer-sports-fans",
-            "button_style_secondary": false,
-            "atc_button_label": "",
-            "atc_product": "",
-            "box_align": "middle-right",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "transparent_container_color": "white",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_44FK3i": {
-          "type": "slide",
-          "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "atc_button_label": "",
-            "atc_product": "",
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "transparent_container_color": "white",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_Ld6wPP",
-        "slide_DAG8pP",
-        "slide_44FK3i"
-      ],
-      "name": "t:sections.slideshow.presets.name",
-      "settings": {
-        "visibility": "always-display",
-        "layout": "full_bleed",
-        "slide_height": "large",
-        "slider_visual": "dots",
-        "desktop_pagination_position": "over",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "show_text_below": true,
-        "mobile_pagination_position": "under",
-        "accessibility_info": "Slideshow about our brand"
-      }
     }
   },
   "order": [
     "cfca4268-6358-426c-98ab-d292aeef11e5",
-    "section_divider_RmHKxJ",
+    "section_divider_dKgmke",
+    "section_divider_WCLePV",
     "rich_text_6bbNmr",
-    "section_divider_j9YbWk",
-    "slideshow_VBa9CQ",
-    "image_with_text_byLyrw",
+    "section_divider_3xgw8G",
+    "multicolumn_jPyhCW",
+    "section_divider_ttiJRW",
+    "section_divider_fymitM",
+    "slideshow_jJ6h9y",
+    "section_divider_yDVDUm",
+    "section_divider_Eq6FdX",
+    "image_with_text_L6Jd4A",
+    "image_with_text_i9ThNG",
+    "image_with_text_3gDMUp",
     "featured_product_3FBrTN",
+    "section_divider_36aMbT",
     "section_divider_4L3qWP",
     "d2d3417b-e92f-428c-b221-5bceffb552be",
     "section_divider_jbGz7q",
+    "section_divider_QDUGAn",
     "collapsible_content_XRj6wx",
-    "section_divider_cteg7q",
-    "slideshow_jJ6h9y"
+    "section_divider_cteg7q"
   ]
 }
