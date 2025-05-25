@@ -16,7 +16,7 @@
           "type": "title",
           "settings": {
             "text_size": "h1",
-            "title_alignment": "left",
+            "title_alignment": "center",
             "uppercase_title": false,
             "margin_top": 0,
             "margin_bottom": 0
@@ -29,8 +29,8 @@
             "price_color": "outline-button",
             "compare_price_color": "accent-2",
             "hide_sale_badge": false,
-            "margin_top": 9,
-            "margin_bottom": 15
+            "margin_top": 30,
+            "margin_bottom": 30
           }
         },
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1": {
@@ -56,7 +56,7 @@
             "breaks_price_texts": "[price], [price], [price]",
             "breaks_compare_price_texts": "[compare_price], [compare_price], [compare_price]",
             "margin_top": 15,
-            "margin_bottom": 15
+            "margin_bottom": 30
           }
         },
         "text_x9eXDk": {
@@ -64,7 +64,7 @@
           "settings": {
             "mobile_text_size": 14,
             "desktop_text_size": 16,
-            "alignment": "left",
+            "alignment": "center",
             "text_color": "#353434",
             "text_1": "<strong>🔋 Hours Of Battery</strong>",
             "text_2": "🎨 <strong>Sleek Modern Look</strong>",
@@ -77,17 +77,17 @@
             "filled_icon_2": false,
             "icon_3": "",
             "filled_icon_3": false,
-            "width": "100%",
-            "direction": "vertical",
-            "column_gap": 3,
-            "enable_bg": false,
-            "bg_color": "#f3f3f3",
+            "width": "fit-content",
+            "direction": "horizontal",
+            "column_gap": 4,
+            "enable_bg": true,
+            "bg_color": "#ffffff",
             "corner_radius": 40,
-            "padding": 3,
-            "border_size": 0,
-            "border_color": "#b7b7b7",
-            "margin_top": 15,
-            "margin_bottom": 15
+            "padding": 4.5,
+            "border_size": 5,
+            "border_color": "#edd199",
+            "margin_top": 30,
+            "margin_bottom": 30
           }
         },
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6": {
@@ -143,8 +143,8 @@
             "option_4_price_text": "[price]",
             "option_4_compare_price": "compare_price",
             "option_4_compare_price_text": "[compare_price]",
-            "margin_top": 15,
-            "margin_bottom": 15
+            "margin_top": 30,
+            "margin_bottom": 30
           }
         },
         "custom_liquid_dFdfQx": {
