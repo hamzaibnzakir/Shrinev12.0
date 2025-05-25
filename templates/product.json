@@ -85,7 +85,7 @@
             "corner_radius": 40,
             "padding": 4.5,
             "border_size": 5,
-            "border_color": "#bfbfbf",
+            "border_color": "#fff0af",
             "margin_top": 30,
             "margin_bottom": 30
           }
@@ -162,7 +162,7 @@
             "uppercase_text": true,
             "display_price": false,
             "enable_custom_color": true,
-            "custom_color": "#ffa900",
+            "custom_color": "#ffd000",
             "margin_top": 24,
             "margin_bottom": 24
           }
