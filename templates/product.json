@@ -59,37 +59,6 @@
             "margin_bottom": 30
           }
         },
-        "text_x9eXDk": {
-          "type": "text",
-          "settings": {
-            "mobile_text_size": 14,
-            "desktop_text_size": 16,
-            "alignment": "center",
-            "text_color": "#353434",
-            "text_1": "<strong>🔋 Hours Of Battery</strong>",
-            "text_2": "🎨 <strong>Sleek Modern Look</strong>",
-            "text_3": "🙌 <strong>Lightweight & Hands-Free</strong>",
-            "icon_scale": 120,
-            "icon_color": "#121212",
-            "icon_1": "",
-            "filled_icon_1": false,
-            "icon_2": "",
-            "filled_icon_2": false,
-            "icon_3": "",
-            "filled_icon_3": false,
-            "width": "fit-content",
-            "direction": "horizontal",
-            "column_gap": 4,
-            "enable_bg": true,
-            "bg_color": "#ffffff",
-            "corner_radius": 40,
-            "padding": 4.5,
-            "border_size": 5,
-            "border_color": "#fff0af",
-            "margin_top": 30,
-            "margin_bottom": 30
-          }
-        },
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6": {
           "type": "quantity_selector",
           "settings": {
@@ -162,7 +131,7 @@
             "uppercase_text": true,
             "display_price": false,
             "enable_custom_color": true,
-            "custom_color": "#ffd000",
+            "custom_color": "#ffcf00",
             "margin_top": 24,
             "margin_bottom": 24
           }
@@ -267,7 +236,6 @@
         "title",
         "price",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
-        "text_x9eXDk",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
         "custom_liquid_dFdfQx",
         "buy_buttons",
