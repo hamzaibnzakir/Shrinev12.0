@@ -27,7 +27,7 @@
           "settings": {
             "layout": "price_first",
             "price_color": "outline-button",
-            "compare_price_color": "text",
+            "compare_price_color": "accent-2",
             "hide_sale_badge": false,
             "margin_top": 9,
             "margin_bottom": 15
@@ -162,7 +162,7 @@
             "uppercase_text": false,
             "display_price": false,
             "enable_custom_color": true,
-            "custom_color": "#000000",
+            "custom_color": "#ffb700",
             "margin_top": 24,
             "margin_bottom": 24
           }
