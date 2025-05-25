@@ -162,7 +162,7 @@
             "uppercase_text": false,
             "display_price": false,
             "enable_custom_color": true,
-            "custom_color": "#ffb700",
+            "custom_color": "#ffa900",
             "margin_top": 24,
             "margin_bottom": 24
           }
