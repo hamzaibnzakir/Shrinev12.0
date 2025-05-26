@@ -696,7 +696,7 @@
             "heading": "How long does it take to process my order?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>We aim to process all orders within [12 business days] after the order is placed. Please note that this may vary during peak times or promotions.</p>",
+            "row_content": "<p><strong>We aim to process all orders within 1–2 business days after the order is placed. Please note that this may vary during peak periods or promotions. Delivery time will depend on your location.</strong></p>",
             "page": ""
           }
         },
