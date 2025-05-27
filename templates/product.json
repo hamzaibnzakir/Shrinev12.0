@@ -676,7 +676,7 @@
             "heading": "Do you ship internationally?",
             "icon": "question_mark",
             "filled_icon": false,
-            "row_content": "<p>Yes, we offer <strong>worldwide shipping</strong> with tracking available on all orders.</p>",
+            "row_content": "<p>We offer <strong>worldwide shipping</strong>, excluding Africa due to shipping complexities, and provide tracking on all orders.</p>",
             "page": ""
           }
         },
