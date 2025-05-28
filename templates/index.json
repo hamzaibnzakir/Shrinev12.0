@@ -430,7 +430,7 @@
       "settings": {
         "visibility": "always-display",
         "layout": "full_bleed",
-        "slide_height": "small",
+        "slide_height": "medium",
         "slider_visual": "dots",
         "desktop_pagination_position": "under",
         "auto_rotate": false,
