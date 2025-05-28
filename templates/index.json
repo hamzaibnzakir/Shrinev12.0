@@ -427,11 +427,10 @@
         "slide_DAG8pP",
         "slide_44FK3i"
       ],
-      "name": "t:sections.slideshow.presets.name",
       "settings": {
         "visibility": "always-display",
         "layout": "full_bleed",
-        "slide_height": "large",
+        "slide_height": "small",
         "slider_visual": "dots",
         "desktop_pagination_position": "under",
         "auto_rotate": false,
