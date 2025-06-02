@@ -265,7 +265,7 @@
         "mobile_thumbnails_count": 5,
         "mobile_pagination": "dots_overlay",
         "hide_arrows": true,
-        "dots_color_scheme": "inverse",
+        "dots_color_scheme": "background-1",
         "trust_badge_position": "top-right",
         "trust_badge_size": "medium",
         "mobile_padding_top": 0,
