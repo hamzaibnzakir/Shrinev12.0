@@ -13,7 +13,7 @@
       "type": "main-page",
       "settings": {
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 60
       }
     },
     "newsletter": {
@@ -42,16 +42,58 @@
         "paragraph",
         "email-form"
       ],
+      "disabled": true,
       "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "button_type": "solid",
+        "button_label": "Sign up",
+        "button_style_secondary": false,
         "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 68,
         "padding_bottom": 52
       }
+    },
+    "rich_text_EnWR4R": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wk899U": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Talk about your brand</p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_9r7MHi": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>About Us</strong></p><p>At Frigana, we believe that feeling good shouldn’t depend on the weather.</p><p>Heat, discomfort, and sweat can drain your energy — not just physically, but mentally too. That’s why we created Frigana: a brand founded on the belief that comfort should be portable, personal, and effortlessly stylish.</p><p>Our journey began with a simple frustration: traditional fans are bulky, noisy, and tethered to a wall. We wanted something better — something that moves with you instead of holding you back. So we imagined a product that could deliver a refreshing breeze in the middle of your day — whether you're walking, working, or just living your life.</p><p>The result is the Frigana Neck Fan: a lightweight, hands-free cooling device designed with purpose. It’s not just a gadget — it’s a personal companion for everyday comfort. Quiet yet powerful. Sleek yet practical. The kind of product that blends seamlessly into your routine without demanding attention.</p><p>But Frigana is more than just a fan. It’s a mindset. A way of saying no to discomfort and yes to everyday ease. We believe that well-being shouldn’t require effort — just smart, thoughtful solutions that enhance your day without adding clutter or noise.</p><p>We obsess over the details: the smooth texture against your skin, the balanced airflow, the battery that lasts when you need it most. Every element is tested and refined to deliver a truly effortless cooling experience — because we know that the small things are what make the difference.</p><p>Frigana is made for people on the move. For those who travel light, think clearly, and don’t let the heat slow them down. For women who want to keep their look fresh, for creatives who need to stay focused, and for anyone who values style as much as function. For everyone who deserves to feel fresh — no matter the season.</p><p>We’re not here to chase trends. We’re here to create essentials — products that feel natural in your day, but make all the difference.</p><p>Because comfort isn’t just a feature. It’s freedom.<br/>And at Frigana, that’s what we stand for</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wk899U",
+        "text_9r7MHi"
+      ],
+      "custom_css": [],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 100
+      }
     }
   },
   "order": [
     "main",
-    "newsletter"
+    "newsletter",
+    "rich_text_EnWR4R"
   ]
 }
